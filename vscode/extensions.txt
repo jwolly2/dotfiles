@@ -12,11 +12,17 @@ donjayamanne.githistory
 eamodio.gitlens
 fabianlauer.vs-code-xml-format
 ipedrazas.kubernetes-snippets
+jmrog.vscode-nuget-package-manager
+jchannon.csharpextensions
 lukehoban.Go
 ms-python.python
+ms-vscode.csharp
+ms-vscode.mono-debug
+oleg-shilo.cs-script
 rebornix.Ruby
 redhat.java
 tnaseem.theme-seti
+vscodevim.vim
 waderyan.gitblame
 webdokkeren.joinlines
 Shan.code-settings-sync
